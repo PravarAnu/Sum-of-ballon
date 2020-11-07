@@ -35,4 +35,5 @@ int main()
 		}
 		printf("%d\n",big);
 	}
+	return 0;
 }
